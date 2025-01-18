@@ -1,5 +1,13 @@
 # RD-INFRO-TECHNOLOGY
 Churn Prediction Dataset
+This repository contains the code for a churn prediction model deployed using Streamlit.
+
+### Live Demo:
+You can try out the live version of the app here:  
+[Live Demo - Churn Prediction](https://rd-infro-technology-bva8naccd8tztcjfajkx2p.streamlit.app/)
+
+### Description:
+- This model predicts whether a customer will exit a bank based on their details, including credit score, age, balance, etc.
 Context
 This dataset contains information about customers of a U.S. bank and is designed to predict whether a customer is likely to leave the bank (churn). It focuses on key numerical and categorical factors that influence customer retention, helping banks to take proactive measures to minimize churn.
 
